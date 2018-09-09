@@ -1,2 +1,4 @@
+Below is the info from the readme file that I was supposed to bring into this test repo
+
 # stat6306introdatascience
 Files and projects for Stat 6306 Introduction to Data Science
